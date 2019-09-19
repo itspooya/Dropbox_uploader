@@ -1,0 +1,4 @@
+dropbox==9.4.0
+requests==2.21.0
+python_telegram_bot==11.1.0
+python-dotenv==0.10.3
